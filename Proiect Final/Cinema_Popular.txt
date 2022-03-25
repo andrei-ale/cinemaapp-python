@@ -1,0 +1,5 @@
+Cinematograful Popular ruleaza urmatoarele filme:
+
+Titlu: Lord - Durata: 180 - Varsta: 13
+Titlu: Gone - Durata: 120 - Varsta: 16
+Titlu: TomSiJerry - Durata: 110 - Limba dublarii: Romana
